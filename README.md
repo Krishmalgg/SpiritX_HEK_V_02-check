@@ -58,19 +58,7 @@ To get started with theSpirit11 - Fantasy Cricket League, follow these steps:
     ```
 6. **In the server side within the config folder create serviceAccountKey.json file**
     ```sh
-   {
-    "type": "service_account",
-    "project_id": "fir-4f834",
-    "private_key_id": "822f03764a928a81c1337ba777aa3b5c20401c39",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCp5mlIPZCvx4KO\nNjLiZZo6BpUK2e1VcYyLcCKIbhDv7FYjJ78vnkz76n/LuD5snQUeQb+ruJugzRU5\ny98GZAcYz8tEHn3DP661rp+dnO++O39u3/hWpYGlxLmtV4hwLFTO+lg2yntu0g3k\nPZODo2KeOVbn1q3WjTY6DLlVRbRhGfRwaUnBn2MUfXENyrDsR3737ISImW5FoHLj\nv7vEyG1dzv1ctLQ0Ma8+//316S0anICrRN7Hn05iN+UN6+dM+5CbWkwqc3eQ3huX\nEldW6Kq0qiKZ3Tlb499DjbcoKqAJTYHYI3hGbknzXaafYI8wcc05hKyyDz3U3Dr2\nF9PNM2LVAgMBAAECggEAQPytUMCb02DRA2yf0hFjCMbzw47QRVqFk+B0lRLkz6Dq\n4c+WRbSbZdCwyU/UMN9u0b/8fMbEYKGReOYOjPc977Or4IZ5PHHjdgMxcqxQ18cS\nW2q4JwxvpuS00SUmPyH13qXLkEmrJRyby63x+uxIEJWGNG/dVq/1CgdL7N4YvPr7\n6Cp7Sl/XmAajjvc70AH20/naWpgN26AOw3hob8fmCPFYZjDhw5POYMCICdZ4gmM1\nPc9TI30JA47NZNw9wcQFsZVeFT3ZIWx7NDnRPyj4OJdvNcKC4d6+5p0uMlbCoPZ9\niu7kyt9yOohh2AvXVESkv5cCHxwapoksXvfZrtEQkQKBgQDqr7jb9RdKk5wU9vOT\nBRu2vF8/CnJhTHCl+QTOHAxkmjmjzA9x1gQCUAlixttWqJVHvd35qkEpuKpKqlr0\nA7cHOOpu7HWlsorwr8waRXr4gKmC1ujO1qzGtEzK5bm4kxLmIPC1weKUGFqTUpn3\nWOqvMYVLZRDdMbxyF0iW9+M5XwKBgQC5VHTBFMLl5JxJ2q6l5Y9NTGpc2pGpYxac\n9xM0KZGIaH8nu+6qSGPSOQiSVhR42hK+3EfMnhSxGEFpAY2S8atmUdyl8mv3DGLO\nag/k/OZURo0lcqDVLEVDO5gggprYmH1e4IhsOhNmLhJuRBk8oA4nQr2jAUcm+PMQ\n95o//gLsSwKBgQDdJZEQ1DeKcuYVa0/DLoEbBQ7LnNCDl0BfZfR9NDkJY7sE+nlj\nT8SfWUQ+7Bwr4NgqrmPJrAGTiwwNJ9JlNkr2Z0+iDvgdl80NWNr/tpFWMgeJ33Gp\n1ukgpS3n0+naX9zjNg8ddwJHg1t2j9O+HO+o/wUYMrhdd0yYRhCFEjnwCQKBgQCk\n9Tx6w5z6fTJzNjdvqFWV6uddQJqYV39ANVcdfcZw0PolBszXOlnHO0aa4g2UyB4Z\nTf6GbUpjmwBVk7FM0tjJ2SF5f76Dhb3IlnURT90/tBBb/ZyUQbRgtIGipj1nfstQ\nkLA9DLBJqcZz6R9BbAFNBsW+ehu336ySNKFSRiiZ4wKBgDl1iZnP4zxVUQhKQrwo\nNB8Kt99E2sBKH8DFxHrK0GU/ydWj7mz6IOZsjurC2LB+HARMzqeMwVjyVnxxG72d\nvPTiJC8Sap+9Iv83rvOTYkMeDB7Ghe6zgBTXAl+EzpqDfTMiJaRQHEEEalyM8U2l\nejv6O3u6FMSRcjP5+Hy4Zxq5\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-fbsvc@fir-4f834.iam.gserviceaccount.com",
-    "client_id": "112285910764080634231",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40fir-4f834.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
-    }
+   
   
   
   
