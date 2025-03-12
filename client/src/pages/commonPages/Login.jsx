@@ -47,7 +47,7 @@ const Login = () => {
   };
 
   return (
-    <div className="relative w-screen min-h-screen flex items-center justify-center p-4 lg:p-8">
+    <div className="relative w-screen min-h-screen flex items-center justify-center p-5 lg:p-8">
       {/* Background Image with Opacity */}
       <div className="absolute inset-0">
         <div 
